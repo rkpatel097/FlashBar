@@ -1,7 +1,7 @@
 # You can use Flashbar just creating builder as mention below
 
-###
-```enum class SnackBarType{
+```
+enum class SnackBarType{
     ERROR,SUCCESS,MESSAGE
 }
 
