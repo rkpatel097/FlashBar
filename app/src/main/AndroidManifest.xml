@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FlashBar">
         <activity
-            android:name=".MainActivity"
+            android:name="com.rp.flashbar.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
