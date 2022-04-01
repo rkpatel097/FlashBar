@@ -66,4 +66,4 @@ fun String.showSnackBar(context: Activity?, snackBarType:SnackBarType = SnackBar
 
 ## Just import dependency from github 
 
-![](https://jitpack.io/v/rkpatel097/FlashBar.svg)](https://jitpack.io/#rkpatel097/FlashBar)
+![](https://jitpack.io/v/rkpatel097/FlashBar.svg)
